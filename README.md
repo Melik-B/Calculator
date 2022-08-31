@@ -50,6 +50,6 @@ Hello sir, this console application is a simple calculator with this application
 
 Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail.com
 
-Project Link: [UpperCase LowerCase](https://github.com/Melik-B/UppercaseLowercase)
+Project Link: [Calculator](https://github.com/Melik-B/Calculator)
 
 <p align="right">-Melik Baykal</p>
