@@ -1,24 +1,32 @@
 <h1 align="center">Calculator</h1>
-<img align="center" src="https://user-images.githubusercontent.com/76618468/187672675-cfc14d9d-bc97-4fda-aa64-1c7de4a6f148.jpg">
+<img align="center" src="https://user-images.githubusercontent.com/76618468/187682506-80e33eab-b623-4712-b4bc-c9c4566cbbc2.jpg">
 <hr>
-<img align="center" src="https://user-images.githubusercontent.com/76618468/187674972-ec6b12c7-36b4-4dbe-90d5-5ced185fb318.jpg">
+<img align="center" src="https://user-images.githubusercontent.com/76618468/187682641-bcdb4fbb-0465-4e4e-89df-be58cbb0bf9f.jpg">
 
-<h3>Driving License Test :</h3>
+<h3>Calculator :</h3>
 
-Hello sir, this console application is a driver's license exam, this application tells you whether you can get a driver's license as a result of the exam.
+Hello sir, this console application is a simple calculator with this application you can improve yourself on conditions.
 
 ```bash
-  eg: Name: Bill Gates
-  Age: 66
-  Education status (primary school: p, middle School: m, high school: h, university: u): h
-  Are you color blind (Yes: Y, No: N): n
-  Dear Bill Gates, you can get a driver's license.
+  eg: Number1: 10
+  Number2: 20
+  Process eg:(+, -, *, /): +
+  10 + 20 = 30
   OR
-  eg: Name: X Æ A-Xii Musk
-  Age: 2
-  Education status (primary school: p, middle School: m, high school: h, university: u): p
-  Are you color blind (Yes: Y, No: N): n
-  Dear X Æ A-Xii Musk, you cannot get a driver's license.
+  eg: Number1: 20
+  Number2: 10
+  Process eg:(+, -, *, /): -
+  20 - 10 = 10
+  OR
+  eg: Number1: 2
+  Number2: 5
+  Process eg:(+, -, *, /): *
+  2 * 5 = 10
+  OR
+  eg: Number1: 10
+  Number2: 2
+  Process eg:(+, -, *, /): /
+  10 / 2 = 5
 ```
 
 <b>ALGORITHM</b>
