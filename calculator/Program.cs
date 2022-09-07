@@ -30,14 +30,14 @@ Logo.WriteLogo();
 Console.Write("Number 1 (Exit => 0): "); // Sayı 1
 double number1 = Convert.ToDouble(Console.ReadLine());
 
+Console.Write("Number 2: "); // Sayı 2
+double number2 = Convert.ToDouble(Console.ReadLine());
+
+Console.Write("Process eg:(+, -, *, /): "); // İşlem örn:(+, -, *, /)
+string process = Convert.ToString(Console.ReadLine());
+
 while (number1 != 0) //Another method(Diğer Yöntem) => if(number1 != "00")
 {
-    Console.Write("Number 2: "); // Sayı 2
-    double number2 = Convert.ToDouble(Console.ReadLine());
-
-    Console.Write("Process eg:(+, -, *, /): "); // İşlem örn:(+, -, *, /)
-    string process = Convert.ToString(Console.ReadLine());
-
     double result; // Sonuç
 
     #region made using switch
